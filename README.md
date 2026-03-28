@@ -14,6 +14,14 @@ The objective of this analysis is to determine key predictors of insolvency base
 
 ---
 
+- ## 📂 Data Source
+
+The dataset used in this project is sourced from **Kaggle**:
+- **Dataset:** [Bankruptcy Prevention](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction) (based on the Taiwan Economic Journal).
+- **Timeframe:** 1999 to 2009.
+
+---
+
 ## 🛠️ Tech Stack
 
 The following libraries were used for data processing, statistical analysis, and visualization:
