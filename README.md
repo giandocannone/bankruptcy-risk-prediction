@@ -1,4 +1,4 @@
-📊 Bankruptcy Risk Factor Analysis (Taiwan Economic Journal)
+## 📊 Bankruptcy Risk Factor Analysis (Taiwan Economic Journal)
 This project identifies the primary factors influencing bankruptcy risk by applying the Altman Z-Score model to a dataset of 6,819 listed companies. The analysis focuses on financial health indicators and comparative trends between solvent and insolvent firms.
 
 📌 Project Overview
