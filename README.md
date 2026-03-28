@@ -71,8 +71,10 @@ git clone https://github.com/DEIN-NUTZERNAME/bankruptcy-risk-prediction.git
 
 ### 2. Install dependencies
 pip install pandas matplotlib seaborn numpy
-3. Run the Notebook
-Open the .ipynb file in Jupyter Notebook or VS Code and follow the interactive prompts to choose your sampling strategy (R or S).
+
+### 3. Run the Notebook
+
+Open the `company-analysis-for-lending-z-score-formula.ipynb` file in Jupyter Notebook or VS Code and follow the interactive prompts to choose your sampling strategy (`R` or `S`).
 
 ## 🎓 About this Project
 This project was developed as the final capstone project for the certification course "Business Data Analyst" at the IHK (Industrie- und Handelskammer) in collaboration with the Business Data Professional Community.
